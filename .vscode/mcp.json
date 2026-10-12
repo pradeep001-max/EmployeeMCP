@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "employee-mcp": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--no-build",
+        "--project",
+        "${workspaceFolder}/EmployeeMcpServer/EmployeeMcpServer.csproj"
+      ]
+    }
+  }
+}

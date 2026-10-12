@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/.vscode/">
+    <File Path="mcp.json" />
+  </Folder>
+  <Project Path="EmployeeApi/EmployeeApi.csproj" />
+  <Project Path="EmployeeMcpServer/EmployeeMcpServer.csproj" />
+</Solution>
